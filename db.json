@@ -1,23 +1,40 @@
 {
-    "explorePlace":
-    [
-        {
-            "id": 1,
-            "img": "https://www.dezigeuner.be/images/full/67f1a9f3e5e5192870e69e4cef2c9b21.jpg",
-            "location": "Londen",
-            "distance": "3.2-hours drive"
-        },
-        {
-            "id": 2,
-            "img": "https://tourscanner.com/blog/wp-content/uploads/2021/08/things-to-do-in-Manchester-UK.jpg",
-            "location": "Manchester",
-            "distance": "4.5-hours drive"
-        },
-        {
-            "id": 3,
-            "img": "https://www.wohin-und-wann.de/site/images/illustration/oualler/angleterre-york_331.jpg",
-            "location": "York",
-            "distance": "5-hours drive"
-        }
-    ]  
-}
+    "nearbyPlace": [
+      {
+        "img": "https://www.dezigeuner.be/images/full/67f1a9f3e5e5192870e69e4cef2c9b21.jpg",
+        "location": "Londen",
+        "distance": "3.2-hours drive"
+      },
+      {
+        "img": "https://tourscanner.com/blog/wp-content/uploads/2021/08/things-to-do-in-Manchester-UK.jpg",
+        "location": "Manchester",
+        "distance": "4.5-hours drive"
+      },
+      {
+        "img": "https://www.wohin-und-wann.de/site/images/illustration/oualler/angleterre-york_331.jpg",
+        "location": "York",
+        "distance": "5-hours drive"
+      },
+      {
+        "img": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/06/30/12/cardiff-bay.jpg",
+        "location": "Cardiff",
+        "distance": "4-hours drive"
+      },
+      {
+        "img": "https://cdn.thecrazytourist.com/wp-content/uploads/2019/05/ccimage-shutterstock_1320826913.jpg",
+        "location": "Birkenhead",
+        "distance": "45-minutes drive"
+      },
+      {
+        "img": "https://propercornwall.co.uk/wp-content/uploads/2021/07/Screenshot-2021-07-21-at-2.57.42-PM-1030x534.png",
+        "location": "Newquay",
+        "distance": "4.5-hours drive"
+      },
+      {
+        "img": "https://www.mishonmackay.com/wp-content/uploads/2022/12/Colourful-houses-in-Brighton.jpg",
+        "location": "Hove",
+        "distance": "2-hours drive"
+      }
+    ]
+  }
+  

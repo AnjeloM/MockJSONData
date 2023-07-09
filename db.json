@@ -1,0 +1,23 @@
+{
+    "explorePlace":
+    [
+        {
+            "id": 1,
+            "img": "https://www.dezigeuner.be/images/full/67f1a9f3e5e5192870e69e4cef2c9b21.jpg",
+            "location": "Londen",
+            "distance": ""
+        },
+        {
+            "id": 2,
+            "img": "https://tourscanner.com/blog/wp-content/uploads/2021/08/things-to-do-in-Manchester-UK.jpg",
+            "location": "Manchester",
+            "distance": "4.5-hours drive"
+        },
+        {
+            "id": 3,
+            "img": "https://www.wohin-und-wann.de/site/images/illustration/oualler/angleterre-york_331.jpg",
+            "location": "York",
+            "distance": "5-hours drive"
+        }
+    ]  
+}

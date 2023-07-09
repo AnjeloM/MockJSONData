@@ -35,6 +35,24 @@
         "location": "Hove",
         "distance": "2-hours drive"
       }
+    ],
+    "liveAnywhere" :[
+      {
+        "img": "https://www.contemporist.com/wp-content/uploads/2018/01/modern-beach-house-architecture-070118-1104-01-800x598.jpg",
+        "title": "Outdoor getaway"
+      },
+      {
+        "img": "https://nelsontreehouse.com/wp-content/uploads/2021/10/DJI_0247.jpg",
+        "title": "Unique stays"
+      },
+      {
+        "img": "https://img.staticmb.com/mbcontent/images/uploads/2022/12/Most-Beautiful-House-in-the-World.jpg",
+        "title": "Entire homes"
+      },
+      {
+        "img": "https://www.marthastewart.com/thmb/rfZkKmfIgiviYhts5Z00y0bEFeo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/pupcloud-faux-fur-ultra-thick-memory-foam-dog-bed-alt-0821-25bf29529e804cd0afad7d34a5bb6b0f.jpg",
+        "title": "Pet allowed"
+      }
     ]
   }
   
